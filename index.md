@@ -1,8 +1,8 @@
 ## Welcome to YJSai's page
-
+<div>
 熱愛學習新技術，使用swift開發APP </br>
 非本科，研究所時主要做科學計算，後來由參加資策會.NET班領進程式設計的領域
-
+</div>
 ## 技能
 
 * 使用HTTP request methods跟web service要求所需要的資料並解析(如json)
