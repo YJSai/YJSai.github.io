@@ -1,6 +1,6 @@
 ## Welcome to YJSai's page
 
-熱愛學習新技術，使用swift開發APP
+熱愛學習新技術，使用swift開發APP </b>
 非本科，研究所時主要做科學計算，後來由參加資策會.NET班領進程式設計的領域
 
 ## 技能
