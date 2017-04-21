@@ -6,7 +6,7 @@
 
 * 使用HTTP request methods跟web service要求所需要的資料並解析(如json)
 * Golang 開發 [RESTful json web service](https://github.com/YJSai/GOLANG-WebService)(資料庫使用heroku上提供的mongodb)內容包括登入權限認證(使用json web token)，上傳、下載圖片，crud
-* swift開發iOS APP
+* swift開發iOS APP，urlsession背景串接API下載資料
 * C# + .NET MVC + bootstrap + javascript + jquery + MS SQL開發網站[PCG Web](https://github.com/YJSai/iii-PCG-web)
 
 ## 能力・專長
